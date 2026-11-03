@@ -25,10 +25,11 @@ It combines narration, diagrams and **Manim animations** to illustrate key ideas
 
 The video is approximately **8 minutes long** and is intended as a compact review of the conceptual foundations of quantum physics.
 
-### Files
+## Video
 
-- `The Experiments that Gave Birth to Quantum Mechanics.mp4` — complete video.
-- `The Experiments that Gave Birth to Quantum Mechanics.srt` — subtitle file with synchronized captions.
+🎥 [Watch / download the video](enlace-al-release-asset)
+
+📄 [Download subtitles](./Quantum_Physics_Manim_Subtitles.srt)
 
 The `.srt` file can be used with standard video players and editing software to display or import the subtitles.
 
