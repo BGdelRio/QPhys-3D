@@ -27,7 +27,7 @@ The video is approximately **8 minutes long** and is intended as a compact revie
 
 ## Video
 
-🎥 [Watch / download the video](enlace-al-release-asset)
+🎥 [Watch / download the video](https://github.com/BGdelRio/QPhys-3D/releases/tag/v1.0/)
 
 📄 [Download subtitles](./Quantum_Physics_Manim_Subtitles.srt)
 
